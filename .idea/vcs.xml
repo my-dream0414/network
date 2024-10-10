@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT-BILSTM-CRF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT-BiLSTM-CRF-NER-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bert-BiLSTM-CRF-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bert_ccpoem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bert_ccpoem/BERT-CCPoem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLUENER2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChinsesNER-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClassicalChineseNER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NER_in_Chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bertNER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nlp-bilstm_crf-ner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nlp-hmm-word-cut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/transformer" vcs="Git" />
+  </component>
+</project>
